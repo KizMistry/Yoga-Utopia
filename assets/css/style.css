@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Mandali&family=Raleway:wght@200;300&family=Rubik:wght@300&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: Rubik, sans-serif;
+    font-weight: 300;
+    color: #2C70EB;
+}
+
+/* headings and logo */
+
+h1, h2, h3 {
+    font-family: Mandali, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #2C70EB
+}
+
+/* Menu */
+
+
+/* Home */
+
+
+/* What We Offer */
+
