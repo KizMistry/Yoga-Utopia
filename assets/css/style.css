@@ -78,7 +78,7 @@ nav ul {
 }
 
 /* image needs resizing */
-#home-image {
+#home-image img {
     padding: 10px;
     width: 100%;
     height: 350px;
