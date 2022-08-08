@@ -83,6 +83,7 @@ nav ul {
     width: 100%;
     height: 350px;
     background-image: url(../images/home-image.jpg) no-repeat center center;
+    background-size: cover;
 }
 
 /* What We Offer */
