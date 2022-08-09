@@ -5,12 +5,12 @@ body {
     font-family: Rubik, sans-serif;
     font-weight: 300;
     color: #2C70EB;
+    width: 100%;
 }
 
 section {
     width: 100%;
     height: 350px;
-    margin: 50px 50px;
     padding: 10px;
 }
 
@@ -96,7 +96,18 @@ nav ul {
 
 /* Sign Up */
 
+form {
+    text-align:center;
+}
 
+form input {
+    display:block;
+    margin: 10px 0;
+    padding: 4px 4px;
+    border: 1px solid blue;
+    width:20%;
+    text-align:center;
+}
 
 /* Footer */
 
@@ -107,8 +118,6 @@ footer may not be 100% width of browser */
 footer {
     padding: 10px;
     width: 100%;
-    height: 10px;
-    position: fixed;
     background-color: gray;
 }
 
