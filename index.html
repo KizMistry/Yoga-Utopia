@@ -85,13 +85,15 @@
     <section id="sign-up">
         <div>
             <h2>Sign-up</h2>
-            <form method="post">
+            <!-- form needs url for action attribute -->
+            <form method="POST" action="#">
                 <label for="fname">First Name</label>
                 <input id="fname" type="text" name="first_name" required>
                 <label for="lname">Last Name</label>
                 <input id="lname" type="text" name="last_name" required>
                 <label for="email">Email Address</label>
                 <input id="email" type="email" name="email_address" required>
+                <input type="submit" value="Subscribe!">
             </form>
         </div>
     </section>
