@@ -44,6 +44,10 @@ hr {
     background-color: gray
 }
 
+h1 {
+    margin: auto;
+}
+
 header a {
     float: left;
 }
