@@ -6,6 +6,7 @@ body {
     font-weight: 300;
     color: #2C70EB;
     width: 100%;
+    margin: auto;
 }
 
 section {
@@ -35,7 +36,7 @@ hr {
 
 /* Header  Logo & Menu */
 
-header {
+#banner {
     padding: 10px;
     height: 50px;
     width: 100%;
@@ -51,8 +52,8 @@ header a {
     float: right;
 }
 
-#logo #menu {
-    line-height: 20px;
+#logo {
+    text-decoration: none;
 }
 
 nav ul {
@@ -68,6 +69,7 @@ nav ul {
     margin-right: 10px;
     text-transform: uppercase;
     text-decoration: none;
+    font-size: small;
 }
 
 /* Home */
