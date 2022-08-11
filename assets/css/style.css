@@ -99,11 +99,27 @@ nav ul {
 /* About Us */
 
 
+img {
+    width:100%;
+    height:450px;
+}
+
+picture {
+    width:60%;
+    float:left;
+    margin-right: 50px;
+}
+
+#about-us {
+    display:inline-block;
+    height:auto;
+}
 
 /* Sign Up */
 
 form {
     text-align:center;
+    height:auto
 }
 
 form input {
@@ -111,9 +127,26 @@ form input {
     margin: 10px 0;
     padding: 4px 4px;
     border: 1px solid blue;
-    width:20%;
+    width: 15%;
     text-align:center;
 }
+
+#submit-button {
+    margin-top: 15px;
+    width: 10%;
+    border-radius: 50px;
+}
+
+/* Contact */
+
+#contact {
+    height:auto
+}
+
+#contact div {
+    text-align:center;
+}
+
 
 /* Footer */
 
