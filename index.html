@@ -68,9 +68,14 @@
     <hr>
 
     <section id="about-us">
-        <div>
+        <div id="about-us-width">
             <h2>About Us</h2>
 
+            <div id="about-us-image">
+                <picture>
+                    <img src="./assets/images/about-us-image.jpg" alt="woman doing yoga pose in a yoga studio" no-repeat contain>
+                </picture>
+            </div>
             <article>
                 <p>Yoga Utopia is a hub for all things mind and body related. We strive to deliver useful educational content that will benefit you in your journey for fitness and mental well-being.
                 </p>
@@ -89,13 +94,21 @@
             <h2>Sign-up</h2>
             <!-- form needs url for action attribute -->
             <form method="POST" action="#">
+
+                <p>Interested in learning more and keeping up to date with the latest Yoga Utopia news? Sign Up to our Email letter for more well-being content.</p>
+                
                 <label for="fname">First Name</label>
-                <input id="fname" type="text" name="first_name" required>
+                
+                <center><input id="fname" type="text" name="first_name" required></center>
+                
                 <label for="lname">Last Name</label>
-                <input id="lname" type="text" name="last_name" required>
+                <center><input id="lname" type="text" name="last_name" required></center>
+                
                 <label for="email">Email Address</label>
-                <input id="email" type="email" name="email_address" required>
-                <input type="submit" value="Subscribe">
+                <center><input id="email" type="email" name="email_address" required></center>
+                
+                <center><input id="submit-button" type="submit" value="Subscribe"></center>
+                
             </form>
         </div>
     </section>
@@ -105,6 +118,12 @@
     <section id="contact">
         <div>
             <h2>Contact</h2>
+
+            <p>Street name</p>
+            <p>Town</p>
+            <p>Post Code</p>
+            <p>Tel: 0123 456 7890</p>
+            <p>Email: YogaUtopia@email.co.uk</p>
 
         </div>
     </section>
