@@ -49,7 +49,7 @@ hr {
     height:auto;
     width: 99%;
     position: fixed;
-    background-color: gray;
+    background-color: lightgray;
     border-radius: 0px 0px 50px 50px;
 }
 
@@ -217,7 +217,7 @@ footer may not be 100% width of browser */
 footer {
     padding: 10px;
     width: 100%;
-    background-color: gray;
+    background-color: lightgray;
     border-radius:50px 50px 0px 0px;
 }
 
