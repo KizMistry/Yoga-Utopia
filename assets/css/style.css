@@ -1,16 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Mandali&family=Raleway:wght@200;300&family=Rubik:wght@300&display=swap');
 
-html{
-    width:auto
-}
 
 body {
     font-family: Rubik, sans-serif;
     font-weight: 300;
     color: #2C70EB;
     width: 100%;
-    margin:auto
-    
+    margin:auto;
+    position:relative
 }
 
 
@@ -18,8 +15,9 @@ body {
 section {
     width: 100%;
     height: 350px;
-    padding: 10px;
+    padding: 10px 0px;
     margin: 10px, 0px;
+    display:block;
 }
 
 /* headings and logo */
@@ -29,6 +27,7 @@ h1, h2, h3 {
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #2C70EB;
+    font-weight:bolder;
 }
 
 h2 {
@@ -37,21 +36,28 @@ h2 {
 
 hr {
     border-top: 1px solid rgba(120, 120, 120, 0.2);
-    width: 80%;
+    max-width: 80%;
     border-radius: 1px;
-    margin-top:10px
+    margin-top:10px;
+    display:block
 }
 
 /* Header  Logo & Menu */
 
+
+
 #banner {
     padding: inherit;
-    margin:0%;
-    height:auto;
-    width: 100%;
+    margin:
+    auto;
+    height:
+    auto;
+    width:1466px;
     position: fixed;
     background-color: lightgray;
     border-radius: 0px 0px 50px 50px;
+    display:
+    block;
 }
 
 h1 {
@@ -93,11 +99,13 @@ nav ul {
 #home {
     width: 100%;
     height: 400px;
+    padding-top:63px;
+    background-color: lightgray;
+    border-radius:0 0 50px 50px;
 }
 
 /* image needs resizing */
 #home-image picture {
-    padding: 10px;
     width: 100%;
     height: 500px;
     background-image: url(../images/home-image.jpg) no-repeat center center;
@@ -120,7 +128,7 @@ nav ul {
     text-align: center;
     vertical-align: top;
     margin-top:25px;
-    border:solid 1px aqua;
+    background-color: lightgray;
     border-radius: 50px;
 }
 
@@ -147,7 +155,7 @@ img {
     border-radius:50px;
 }
 
-picture {
+#about-us-image picture {
     width:60%;
     float:left;
     margin-right: 50px;
@@ -162,15 +170,15 @@ article {
     height:450px;
 }
 
-article p {
+.about-us-p {
     text-align:center;
     height:100px;
     width: 30%;
     margin:10px;
     padding:15px 15px 15px 15px;
-    border:solid aqua;
     border-radius: 50px;
-    display:inline-block
+    display:inline-block;
+    background-color: lightgray
     
     
 }
@@ -216,8 +224,10 @@ form input {
 footer may not be 100% width of browser */
 
 footer {
+    margin:auto;
+    height:50px;
     padding: 10px;
-    width: 100%;
+    width:auto;
     background-color: lightgray;
     border-radius:50px 50px 0px 0px;
 }
