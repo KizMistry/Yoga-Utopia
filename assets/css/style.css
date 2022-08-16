@@ -221,9 +221,6 @@ form input {
 
 /* Footer */
 
-/* Notes */
-/* fixed position may not be working
-footer may not be 100% width of browser */
 
 footer {
     margin:auto;
@@ -241,9 +238,10 @@ footer li {
 
 .social-network-links {
     text-align: center;
+    padding: 1px;
 }
 
 
 .social-network-links i {
-    margin: 0 10px;
+    margin: 0 50px;
 }
