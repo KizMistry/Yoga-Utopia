@@ -153,7 +153,9 @@ nav ul {
     padding:inherit
 }
 
-
+.what-we-offer a {
+    text-decoration: none;
+}
 
 /* About Us */
 
