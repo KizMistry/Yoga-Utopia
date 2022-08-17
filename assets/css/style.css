@@ -38,6 +38,10 @@ h2 {
     font-size:30px
 }
 
+h3 {
+    font-size: 20px;
+}
+
 hr {
     border-top: 1px solid rgba(120, 120, 120, 0.2);
     max-width: 80%;
@@ -106,7 +110,7 @@ nav ul {
     height: 400px;
     padding-top:63px;
     background-color: rgba(230,230,230,1);
-    border-radius:0 0 50px 50px;
+    border-radius:0 0 20px 20px;
 }
 
 /* image needs resizing */
@@ -161,10 +165,10 @@ img {
 }
 
 #about-us-image picture {
-    width:60%;
+    width:50%;
     float:left;
     margin-right: 60px;
-    margin-left: 20px;
+    margin-left: 30px;
 }
 
 #about-us {
@@ -174,6 +178,7 @@ img {
 
 article {
     height:450px;
+    padding:30px;
 }
 
 .about-us-p {
