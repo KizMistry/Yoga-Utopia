@@ -43,7 +43,7 @@ h3 {
 }
 
 hr {
-    border-top: 1px solid rgba(120, 120, 120, 0.2);
+    border-top: 1px solid rgba(120, 120, 120, 0.3);
     max-width: 80%;
     border-radius: 1px;
     margin-top:10px;
@@ -101,6 +101,7 @@ nav ul {
     text-transform: uppercase;
     text-decoration: none;
     font-size: small;
+    color:#2C70EB
 }
 
 /* Home */
@@ -109,7 +110,7 @@ nav ul {
     width: 100%;
     height: 400px;
     padding-top:63px;
-    background-color: rgba(230,230,230,1);
+    background-color: rgba(230,230,230,0.3);
     border-radius:0 0 20px 20px;
 }
 
@@ -166,7 +167,7 @@ img {
     border-radius:20px;
 }
 
-#about-us-image picture {
+#about-us-image {
     width:50%;
     float:left;
     margin-right: 60px;
@@ -181,6 +182,8 @@ img {
 article {
     height:450px;
     padding:30px;
+    position:relative;
+    bottom:30px;
 }
 
 .about-us-p {
@@ -261,4 +264,5 @@ footer li {
 
 .social-network-links i {
     margin: 0 50px;
+    color:#2C70EB
 }
