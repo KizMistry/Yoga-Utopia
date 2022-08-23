@@ -137,10 +137,10 @@ nav ul {
 }
 
 #home-image-welcome {
-    width:30%;
-    height:auto;
     position:relative;
-    background-color:rgba(230,230,230,0.3);
+    width:30%;
+    margin:auto;
+    text-align:center;
 }
 
 #home p {
@@ -149,7 +149,8 @@ nav ul {
     width:100%;
     font-size:larger;
     font-weight:bolder;
-    color:black
+    color:black;
+    background-color:rgba(230,230,230,0.6);
 }
 
 /* What We Offer */
