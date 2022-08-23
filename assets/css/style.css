@@ -131,6 +131,15 @@ nav ul {
     border-radius:20px;
 }
 
+#home-image-welcome {
+    width:30%;
+    height:auto;
+    position:relative;
+    top:50px;
+    left:100px;
+    background-color:rgba(230,230,230,0.3);
+}
+
 /* What We Offer */
 
 #what-we-offer {
@@ -141,20 +150,21 @@ nav ul {
 .what-we-offer {
     width:32%;
     padding:5px;
-    height:160px;
+    height:auto;
     display:inline-block;
     text-align: center;
     vertical-align: top;
     margin-top:25px;
+    border-radius:20px;
+    background-color:rgba(230,230,230,0.3)
 }
 
 .what-we-offer p {
     padding:20px;
-    height:75px;
+    min-height:75px;
     width:80%;
     margin:auto;
-    border-radius:20px;
-    background-color:rgba(230,230,230,0.3)
+    
 }
 
 .what-we-offer h3 {
@@ -188,10 +198,11 @@ nav ul {
 }
 
 article {
-    height:450px;
+    height:auto;
     padding:30px;
     position:relative;
     bottom:30px;
+    background-color: rgba(230,230,230,0.3)
 }
 
 .about-us-p {
@@ -202,7 +213,7 @@ article {
     padding:15px 15px 15px 15px;
     border-radius: 20px;
     display:inline-block;
-    background-color: rgba(230,230,230,0.3)
+    
     
 }
 
@@ -295,7 +306,8 @@ footer li {
 
 #alt-pages h2 {
     position: relative;
-    top: 100px
+    top: 220px;
+    font-size: 30px;
 }
 
 #video {
@@ -303,7 +315,7 @@ footer li {
     float: left;
     box-sizing:border-box;
     position:relative;
-    top:-900px;
+    top:-700px;
     left:-60px;
     opacity:0.9
 }
@@ -326,8 +338,7 @@ iframe {
     top:-700px;
     box-sizing:border-box;
     vertical-align:middle;
-    border-radius: 20px
-    0 0 20px;
+    border-radius: 20px 0 0 20px;
     
 
 }
@@ -340,10 +351,9 @@ iframe {
         float: right;
         background-color: rgba(230,230,230,0.3);
         position:relative;
-        top:-800px;
+        top:-700px;
         box-sizing:border-box;
         vertical-align:middle;
-        border-radius: 20px
-        0 0 20px;
+        border-radius: 20px 0 0 20px;
         
 }
