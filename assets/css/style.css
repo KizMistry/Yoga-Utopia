@@ -23,6 +23,10 @@ section {
     text-align: center;
 }
 
+a:visited {
+    text-decoration:none;
+}
+
 /* headings and logo */
 
 h1, h2, h3 {
@@ -188,7 +192,14 @@ nav ul {
 
 .what-we-offer a {
     text-decoration: none;
+    color: #333333;
 }
+
+.what-we-offer:hover {
+    background-color: aliceblue;
+    color: #333333;
+}
+
 
 /* About Us */
 
@@ -258,6 +269,11 @@ form input {
     margin-top: 15px;
     width: 10%;
     border-radius: 50px;
+}
+
+#submit-button:hover {
+    background-color: #2C70EB;
+    color:white;
 }
 
 /* Contact */
