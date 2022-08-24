@@ -7,12 +7,8 @@ body {
     color: #333333;
     width: 100%;
     margin:auto;
-    position:relative
+    position:relative;
 }
-
-
-
-
 
 section {
     width: 100%;
@@ -39,7 +35,7 @@ h1, h2, h3 {
 
 h2 {
     text-align: center;
-    font-size:30px
+    font-size:30px;
 }
 
 h3 {
@@ -50,27 +46,21 @@ hr {
     border-top: 1px solid rgba(120, 120, 120, 0.3);
     max-width: 80%;
     border-radius: 1px;
-    margin-top:10px;
-    
+    margin-top:10px;  
 }
 
 /* Header  Logo & Menu */
 
-
-
 #banner {
     padding: inherit;
-    margin:
-    auto;
-    height:
-    auto;
+    margin: auto;
+    height: auto;
     width:100%;
     position: fixed;
     background-color: rgba(230,230,230,0.9);
     border-radius: 0px 0px 20px 20px;
-    display:
-    block;
-    z-index:1000;
+    display: block;
+    z-index: 1000;
 }
 
 h1 {
@@ -89,12 +79,12 @@ header a {
 #logo {
     text-decoration: none;
     margin: auto;
-    margin-left:25px
+    margin-left:25px;
 }
 
 nav ul {
     list-style-type: none;
-    margin-right:50px
+    margin-right:50px;
 }
 
 #menu li {
@@ -119,19 +109,15 @@ nav ul {
 }
 
 #home-image {
-    height:100%;
-   
+    height:100%;  
 }
-
 
 #home-image picture {
     width: 100%;
     height: 100%;
     background-image: url(../images/home-image-2.jpg) no-repeat center center;
     background-size: cover;
-
 }
-
 
 #home-image img {
     width:100%;
@@ -181,13 +167,12 @@ nav ul {
     padding:20px;
     min-height:75px;
     width:80%;
-    margin:auto;
-    
+    margin:auto; 
 }
 
 .what-we-offer h3 {
     margin:auto;
-    padding:inherit
+    padding:inherit;
 }
 
 .what-we-offer a {
@@ -200,9 +185,7 @@ nav ul {
     color: #333333;
 }
 
-
 /* About Us */
-
 
 #about-us-image img {
     width:100%;
@@ -227,7 +210,7 @@ article {
     padding:30px;
     position:relative;
     bottom:30px;
-    background-color: rgba(230,230,230,0.3)
+    background-color: rgba(230,230,230,0.3);
 }
 
 .about-us-p {
@@ -237,13 +220,10 @@ article {
     margin:10px;
     padding:15px 15px 15px 15px;
     border-radius: 20px;
-    display:inline-block;
-    
-    
+    display:inline-block; 
 }
 
 /* Sign Up */
-
 
 #sign-up {
     margin: 10px, auto;
@@ -279,17 +259,14 @@ form input {
 /* Contact */
 
 #contact {
-    height:auto
-    
+    height:auto;  
 }
 
 #contact div {
     text-align:center;
 }
 
-
 /* Footer */
-
 
 footer {
     margin:auto;
@@ -314,15 +291,13 @@ footer li {
 
 .social-network-links i {
     margin: 0 50px;
-    color:#2C70EB
+    color:#2C70EB;
 }
 
-/* Yoga Page */
+/* Secondary Pages */
 
 #other-pages-body {
     height: auto;
-    
-
 }
 
 #background-imgs {
@@ -338,7 +313,7 @@ footer li {
     display: inline-block;
 }
 #header-background {
-    height:53px
+    height:53px;
 }
 
 #alt-pages h2 {
@@ -347,15 +322,12 @@ footer li {
     font-size: 40px;
     text-align:center;
     width:100%;
-    z-index:1000
-    
+    z-index:1000; 
 }
 
 #video {
     width: 60%;
-    position:relative
-
-    
+    position:relative    
 }
 
 iframe {
@@ -367,10 +339,8 @@ iframe {
     top:-800px;
     left:60px;
     float:left;
-    box-sizing:border-box;
-    
+    box-sizing:border-box;   
 }
-
 
 #meditation-info {
     width: 40%;
@@ -383,11 +353,8 @@ iframe {
     box-sizing:border-box;
     vertical-align:middle;
     border-radius: 20px 0 0 20px;
-    text-align: left;
-    
-
+    text-align: left;   
 }
-
 
 #yoga-info {
     width: 40%;
@@ -400,6 +367,94 @@ iframe {
     box-sizing:border-box;
     vertical-align:middle;
     border-radius: 20px 0 0 20px;
-    text-align: left;
-        
+    text-align: left;       
+}
+
+/* Media queries */
+
+/* For large to medium screens sizes from 1200px wide and down */
+@media screen and (max-width: 1200px){
+
+    #banner {
+        width:100%;
+        text-align:center;
+        margin:0;
+        padding:0;
+    }
+    
+    h1 {
+        width:100%;
+        margin:0;
+        padding:0;
+    }
+
+    #logo {
+        width:100%;
+        margin:0;
+        padding:0;
+        text-align:center
+    }
+
+    #menu {
+        width:100%;
+        padding:0;
+        margin:0;
+    }
+
+    #menu ul {
+        padding:10px 0 10px 0;
+        margin:auto
+    }
+    
+    #home-image-welcome {
+        position:relative;
+        top:50px;
+        width:50%
+    }
+
+    hr {
+        display: none;
+    }
+
+    .what-we-offer {
+        display:block;
+        width:100%;
+        padding:0
+    }
+
+    .what-we-offer p {
+        font-size:20px;
+    }
+
+    .what-we-offer h3 {
+        font-size:25px
+    }
+
+    #what-we-offer {
+        height:auto
+    }
+
+    #about-us {
+        height:auto
+    }
+
+    #about-us p {
+        font-size:20px;
+        text-align:left;
+        padding:0;
+        margin:0
+    }
+
+    #sign-up p {
+        padding:0 50px;
+        text-align:center
+    }
+
+    #sign-up input {
+        width:25%
+    }
+
+    input#submit-button {
+        width:15%
+    }
 }
