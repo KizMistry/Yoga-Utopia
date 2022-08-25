@@ -246,18 +246,21 @@ form {
 }
 
 form input {
-    display: block;
     margin: 10px 0;
     padding: 4px 4px;
     border: 1px solid #2C70EB;
-    width: 15%;
+    width: 20%;
     text-align: center;
     border-radius: 50px;
 }
 
+label {
+    display:block
+}
+
 #submit-button {
     margin-top: 15px;
-    width: 10%;
+    width: 20%;
     border-radius: 50px;
 }
 
@@ -478,7 +481,7 @@ iframe {
     }
 
     input#submit-button {
-        width: 15%
+        width: 25%
     }
 
     #alt-pages h2 {
@@ -504,13 +507,23 @@ iframe {
         margin: 0 50px;
         padding-bottom: 30px
     }
+
+    #sign-up input {
+        width: 30%;
+        min-width: 220px;
+    }
+
+    input#submit-button {
+        width: 30%;
+        min-width: 220px
+    }
 }
 
 /* For medium screens sizes from 750px wide and down */
 @media screen and (max-width: 750px) {
     #alt-pages img {
-    display:none;
-}
+        display:none;
+    }
 }
 
 /* For medium screens sizes from 425px wide and down */
@@ -518,14 +531,6 @@ iframe {
 
     #about-us-image img {
         height:auto
-    }
-    
-    #sign-up input {
-        width: 50%
-    }
-
-    input#submit-button {
-        width: 50%
     }
     
     .social-network-links i {
