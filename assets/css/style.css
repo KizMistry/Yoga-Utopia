@@ -1,41 +1,42 @@
-@import url('https://fonts.googleapis.com/css2?family=Mandali&family=Raleway:wght@200;300&family=Rubik:wght@300&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Mandali&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
 
 body {
     font-family: Rubik, sans-serif;
     font-weight: 300;
     color: #333333;
     width: 100%;
-    margin:auto;
-    position:relative;
+    margin: auto;
+    position: relative;
 }
 
 section {
     width: 100%;
     height: 350px;
     padding: 10px 0px;
-    margin: 10px, 0px;
-    display:block;
+    margin: 10px 0px;
+    display: block;
     text-align: center;
 }
 
 a:visited {
-    text-decoration:none;
+    text-decoration: none;
 }
 
 /* headings and logo */
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
     font-family: Mandali, sans-serif;
     text-transform: uppercase;
     letter-spacing: 4px;
     color: #2C70EB;
-    font-weight:bold;
+    font-weight: bold;
 }
 
 h2 {
     text-align: center;
-    font-size:30px;
+    font-size: 30px;
 }
 
 h3 {
@@ -46,7 +47,7 @@ hr {
     border-top: 1px solid rgba(120, 120, 120, 0.3);
     max-width: 80%;
     border-radius: 1px;
-    margin-top:10px;  
+    margin-top: 10px;
 }
 
 /* Header  Logo & Menu */
@@ -55,9 +56,9 @@ hr {
     padding: inherit;
     margin: auto;
     height: auto;
-    width:100%;
+    width: 100%;
     position: fixed;
-    background-color: rgba(230,230,230,0.9);
+    background-color: rgba(230, 230, 230, 0.9);
     border-radius: 0px 0px 20px 20px;
     display: block;
     z-index: 1000;
@@ -79,16 +80,16 @@ header a {
 #logo {
     text-decoration: none;
     margin: auto;
-    margin-left:25px;
+    margin-left: 25px;
 }
 
 nav ul {
     list-style-type: none;
-    margin-right:50px;
+    margin-right: 50px;
 }
 
 #menu li {
-    display:inline-block;
+    display: inline-block;
     margin-right: 15px;
 }
 
@@ -96,7 +97,8 @@ nav ul {
     text-transform: uppercase;
     text-decoration: none;
     font-size: 16px;
-    color:#2C70EB;
+    color: #2C70EB;
+    font-weight:400;
 }
 
 /* Home */
@@ -104,42 +106,42 @@ nav ul {
 #home {
     width: 100%;
     height: 700px;
-    background-color: rgba(230,230,230,0.3);
-    border-radius:0 0 20px 20px;
+    background-color: rgba(230, 230, 230, 0.3);
+    border-radius: 0 0 20px 20px;
 }
 
 #home-image {
-    height:100%;  
+    height: 100%;
 }
-
+/*
 #home-image picture {
     width: 100%;
     height: 100%;
-    background-image: url(../images/home-image-2.jpg) no-repeat center center;
+    background-image: url("../images/home-image-2.jpg") no-repeat;
     background-size: cover;
-}
+} */
 
 #home-image img {
-    width:100%;
-    height:100%;
-    border-radius:20px;
+    width: 100%;
+    height: 100%;
+    border-radius: 20px;
 }
 
 #home-image-welcome {
-    position:relative;
-    width:30%;
-    margin:auto;
-    text-align:center;
+    position: relative;
+    width: 30%;
+    margin: auto;
+    text-align: center;
 }
 
 #home p {
-    position:relative;
-    top:-600px;
-    width:100%;
-    font-size:larger;
-    font-weight:bolder;
-    color:black;
-    background-color:rgba(230,230,230,0.6);
+    position: relative;
+    top: -600px;
+    width: 100%;
+    font-size: larger;
+    font-weight: bolder;
+    color: black;
+    background-color: rgba(230, 230, 230, 0.6);
     padding: 10px;
     border-radius: 20px;
 }
@@ -147,32 +149,32 @@ nav ul {
 /* What We Offer */
 
 #what-we-offer {
-    height:350px;
+    height: 350px;
     margin-top: 10px;
 }
 
 .what-we-offer {
-    width:32%;
-    padding:5px;
-    height:auto;
-    display:inline-block;
+    width: 32%;
+    padding: 5px;
+    height: auto;
+    display: inline-block;
     text-align: center;
     vertical-align: top;
-    margin-top:25px;
-    border-radius:20px;
-    background-color:rgba(230,230,230,0.3)
+    margin-top: 25px;
+    border-radius: 20px;
+    background-color: rgba(230, 230, 230, 0.3)
 }
 
 .what-we-offer p {
-    padding:20px;
-    min-height:75px;
-    width:80%;
-    margin:auto; 
+    padding: 20px;
+    min-height: 75px;
+    width: 80%;
+    margin: auto;
 }
 
 .what-we-offer h3 {
-    margin:auto;
-    padding:inherit;
+    margin: auto;
+    padding: inherit;
 }
 
 .what-we-offer a {
@@ -188,60 +190,60 @@ nav ul {
 /* About Us */
 
 #about-us-image img {
-    width:100%;
-    height:450px;
-    border-radius:20px;
+    width: 100%;
+    height: 450px;
+    border-radius: 20px;
 }
 
 #about-us-image {
-    width:50%;
-    float:left;
+    width: 50%;
+    float: left;
     margin-right: 60px;
     margin-left: 30px;
 }
 
 #about-us {
-    display:inline-block;
-    height:auto;
+    display: inline-block;
+    height: auto;
+    background-color: rgba(230, 230, 230, 0.3);
 }
 
 article {
-    height:auto;
-    padding:30px;
-    position:relative;
-    bottom:30px;
-    background-color: rgba(230,230,230,0.3);
+    height: auto;
+    padding: 30px;
+    position: relative;
+    bottom: 30px;
 }
 
 .about-us-p {
-    text-align:center;
-    height:100px;
+    text-align: center;
+    height: 100px;
     width: 30%;
-    margin:10px;
-    padding:15px 15px 15px 15px;
+    margin: 10px;
+    padding: 15px 15px 15px 15px;
     border-radius: 20px;
-    display:inline-block; 
+    display: inline-block;
 }
 
 /* Sign Up */
 
 #sign-up {
-    margin: 10px, auto;
-    height:auto;
+    margin: 10px auto;
+    height: auto;
 }
 
 form {
-    text-align:center;
-    height:auto
+    text-align: center;
+    height: auto
 }
 
 form input {
-    display:block;
+    display: block;
     margin: 10px 0;
     padding: 4px 4px;
     border: 1px solid #2C70EB;
     width: 15%;
-    text-align:center;
+    text-align: center;
     border-radius: 50px;
 }
 
@@ -253,34 +255,34 @@ form input {
 
 #submit-button:hover {
     background-color: #2C70EB;
-    color:white;
+    color: white;
 }
 
 /* Contact */
 
 #contact {
-    height:auto;  
+    height: auto;
 }
 
 #contact div {
-    text-align:center;
+    text-align: center;
 }
 
 /* Footer */
 
 footer {
-    margin:auto;
-    height:50px;
+    margin: auto;
+    height: 50px;
     padding: 10px;
-    width:auto;
-    background-color: rgba(230,230,230,0.3);
-    border-radius:20px 20px 0px 0px;
+    width: auto;
+    background-color: rgba(230, 230, 230, 0.3);
+    border-radius: 20px 20px 0px 0px;
     display: block;
 }
 
 footer li {
     display: inline;
-    
+
 }
 
 .social-network-links {
@@ -291,7 +293,7 @@ footer li {
 
 .social-network-links i {
     margin: 0 50px;
-    color:#2C70EB;
+    color: #2C70EB;
 }
 
 /* Secondary Pages */
@@ -301,10 +303,10 @@ footer li {
 }
 
 #background-imgs {
-    width:100%;
-    height:auto;
-    border-radius:20px;
-    background-color: rgba(230,230,230,0.3);
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+    background-color: rgba(230, 230, 230, 0.3);
     opacity: 0.6;
 }
 
@@ -312,104 +314,105 @@ footer li {
     position: relative;
     display: inline-block;
 }
+
 #header-background {
-    height:53px;
+    height: 53px;
 }
 
 #alt-pages h2 {
     position: absolute;
     top: 10px;
     font-size: 40px;
-    text-align:center;
-    width:100%;
-    z-index:1000; 
+    text-align: center;
+    width: 100%;
+    z-index: 1000;
 }
 
 #video {
     width: 60%;
-    position:relative    
+    position: relative
 }
 
 iframe {
-    width:80%;
-    height:500px;
-    vertical-align:middle;
-    border-radius:20px;
-    position:absolute;
-    top:-800px;
-    left:60px;
-    float:left;
-    box-sizing:border-box;   
+    width: 80%;
+    height: 500px;
+    vertical-align: middle;
+    border-radius: 20px;
+    position: absolute;
+    top: -800px;
+    left: 60px;
+    float: left;
+    box-sizing: border-box;
 }
 
 #meditation-info {
     width: 40%;
-    height:auto;
-    padding:20px;
+    height: auto;
+    padding: 20px;
     float: right;
-    background-color: rgba(230,230,230,0.6);
-    position:relative;
-    top:-800px;
-    box-sizing:border-box;
-    vertical-align:middle;
+    background-color: rgba(230, 230, 230, 0.6);
+    position: relative;
+    top: -800px;
+    box-sizing: border-box;
+    vertical-align: middle;
     border-radius: 20px 0 0 20px;
-    text-align: left;   
+    text-align: left;
 }
 
 #yoga-info {
     width: 40%;
-    height:auto;
-    padding:20px;
+    height: auto;
+    padding: 20px;
     float: right;
-    background-color: rgba(230,230,230,0.6);
-    position:relative;
-    top:-800px;
-    box-sizing:border-box;
-    vertical-align:middle;
+    background-color: rgba(230, 230, 230, 0.6);
+    position: relative;
+    top: -800px;
+    box-sizing: border-box;
+    vertical-align: middle;
     border-radius: 20px 0 0 20px;
-    text-align: left;       
+    text-align: left;
 }
 
 /* Media queries */
 
 /* For large to medium screens sizes from 1200px wide and down */
-@media screen and (max-width: 1200px){
+@media screen and (max-width: 1200px) {
 
     #banner {
-        width:100%;
-        text-align:center;
-        margin:0;
-        padding:0;
+        width: 100%;
+        text-align: center;
+        margin: 0;
+        padding: 0;
     }
-    
+
     h1 {
-        width:100%;
-        margin:0;
-        padding:0;
+        width: 100%;
+        margin: 0;
+        padding: 0;
     }
 
     #logo {
-        width:100%;
-        margin:0;
-        padding:0;
-        text-align:center
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        text-align: center
     }
 
     #menu {
-        width:100%;
-        padding:0;
-        margin:0;
+        width: 100%;
+        padding: 0;
+        margin: 0;
     }
 
     #menu ul {
-        padding:10px 0 10px 0;
-        margin:auto
+        padding: 10px 0 10px 0;
+        margin: auto
     }
-    
+
     #home-image-welcome {
-        position:relative;
-        top:50px;
-        width:50%
+        position: relative;
+        top: 50px;
+        width: 50%
     }
 
     hr {
@@ -417,44 +420,130 @@ iframe {
     }
 
     .what-we-offer {
-        display:block;
-        width:100%;
-        padding:0
+        display: block;
+        width: 100%;
+        padding: 0
     }
 
     .what-we-offer p {
-        font-size:20px;
+        font-size: 20px;
     }
 
     .what-we-offer h3 {
-        font-size:25px
+        font-size: 25px
     }
 
     #what-we-offer {
-        height:auto
+        height: auto
     }
 
     #about-us {
-        height:auto
+        height: auto
     }
 
     #about-us p {
-        font-size:20px;
-        text-align:left;
-        padding:0;
-        margin:0
+        font-size: 20px;
+        text-align: left;
+        padding: 0;
+        margin: 0
     }
 
     #sign-up p {
-        padding:0 50px;
-        text-align:center
+        padding: 0 50px;
+        text-align: center
     }
 
     #sign-up input {
-        width:25%
+        width: 25%
     }
 
     input#submit-button {
-        width:15%
+        width: 15%
+    }
+}
+
+/* For medium screens sizes from 950px wide and down */
+@media screen and (max-width: 950px) {
+    #banner {
+        width: 100%;
+        text-align: center;
+        margin: 0;
+        padding: 0;
+    }
+
+    h1 {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+    }
+
+    #logo {
+        width: 100%;
+        margin: 0;
+        padding: 0;
+        text-align: center
+    }
+
+    #menu {
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+
+    #menu ul {
+        padding: 10px 0 10px 0;
+        margin: auto
+    }
+
+    #home-image-welcome {
+        position: relative;
+        top: 50px;
+        width: 50%
+    }
+
+    hr {
+        display: none;
+    }
+
+    .what-we-offer {
+        display: block;
+        width: 100%;
+        padding: 0
+    }
+
+    .what-we-offer p {
+        font-size: 20px;
+    }
+
+    .what-we-offer h3 {
+        font-size: 25px
+    }
+
+    #what-we-offer {
+        height: auto
+    }
+
+    #about-us {
+        height: auto
+    }
+
+    #about-us p {
+        font-size: 20px;
+        text-align: left;
+        padding: 0;
+        margin: 0
+    }
+
+    #sign-up p {
+        padding: 0 50px;
+        text-align: center
+    }
+
+    #sign-up input {
+        width: 25%
+    }
+
+    input#submit-button {
+        width: 15%
     }
 }
