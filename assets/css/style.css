@@ -358,8 +358,8 @@ footer li {
 
 iframe {
     text-align:center;
-    width: 60%;
-    height: 300px;
+    width: 50%;
+    height: 100%;
     vertical-align: middle;
     border-radius: 20px;
 
@@ -479,88 +479,53 @@ iframe {
     }
 }
 
-/* For medium screens sizes from 950px wide and down */
-@media screen and (max-width: 950px) {
-    #banner {
-        width: 100%;
-        text-align: center;
-        margin: 0;
-        padding: 0;
+/* For medium screens sizes from 837px wide and down */
+@media screen and (max-width: 837px) {
+    .about-us-p {
+        width:100%;
+        box-sizing:border-box;
     }
 
-    h1 {
-        width: 100%;
-        margin: 0;
-        padding: 0;
+    #about-us-image {
+        width:auto;
+        display:block;
+        margin: 0 50px;
+        padding-bottom: 30px
     }
+}
 
-    #logo {
-        width: 100%;
-        margin: 0;
-        padding: 0;
-        text-align: center
+/* For medium screens sizes from 425px wide and down */
+@media screen and (max-width: 425px) {
+
+    #about-us-image img {
+        height:auto
     }
-
-    #menu {
-        width: 100%;
-        padding: 0;
-        margin: 0;
-    }
-
-    #menu ul {
-        padding: 10px 0 10px 0;
-        margin: auto
-    }
-
-    #home-image-welcome {
-        position: relative;
-        top: 50px;
+    
+    #sign-up input {
         width: 50%
     }
 
-    hr {
-        display: none;
-    }
-
-    .what-we-offer {
-        display: block;
-        width: 100%;
-        padding: 0
-    }
-
-    .what-we-offer p {
-        font-size: 20px;
-    }
-
-    .what-we-offer h3 {
-        font-size: 25px
-    }
-
-    #what-we-offer {
-        height: auto
-    }
-
-    #about-us {
-        height: auto
-    }
-
-    #about-us p {
-        font-size: 20px;
-        text-align: left;
-        padding: 0;
-        margin: 0
-    }
-
-    #sign-up p {
-        padding: 0 50px;
-        text-align: center
-    }
-
-    #sign-up input {
-        width: 25%
-    }
-
     input#submit-button {
-        width: 15%
+        width: 50%
     }
+    
+    .social-network-links i {
+        margin: 0 30px;
+        color: #2C70EB;
+    }
+}
+
+/* For medium screens sizes from 320px wide and down */
+@media screen and (max-width: 320px) {
+
+    h2 {
+        font-size: 25px;
+        width:auto;
+    }
+
+     .social-network-links i {
+        margin: 0 20px;
+        color: #2C70EB;
+    }
+   
 }
