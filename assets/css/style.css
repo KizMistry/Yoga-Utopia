@@ -491,8 +491,8 @@ iframe {
     }
 }
 
-/* For medium screens sizes from 837px wide and down */
-@media screen and (max-width: 837px) {
+/* For medium screens sizes from 920px wide and down */
+@media screen and (max-width: 920px) {
     .about-us-p {
         width:100%;
         box-sizing:border-box;
