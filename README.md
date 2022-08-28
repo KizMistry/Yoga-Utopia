@@ -1,82 +1,131 @@
 # Yoga Utopia
+ 
+Yoga Utopia is a Yoga, Meditation and Mental-Health website that hopes to provide a universal yoga experience, encouraging both a healthy mind and a healthy body for everyone. Yoga Utopia's goal is to teach visitors the origins and benefits of practicing Yoga, Meditation and the importance of Mental Well-being.
 
-In this section, you will include one or two paragraphs providing an overview of your project. Essentially, this part is your sales pitch. At this stage, you should have a name for your project so use it! Don’t introduce the project as a Portfolio project for the diploma. In this section, describe what the project hopes to accomplish, who it is intended to target and how it will be useful to the target audience. 
-
-For example; Love Running is a site that hopes to help keep people motivated to meet up for runs on a regular basis in Dublin, Ireland. The site will be targeted toward runners who are looking for a way to socialise and keep themselves fit. Love Running will be useful for runners to see exactly when and where they should be to join the running club. 
+Yoga Utopia is beginner friendly, providing beginner friendly content which is also beneficial to a more experienced Yogi.
+The site has useful information relating to Yoga, Meditation, and Mental-Health that will help to educate people interested in each category.
+Yoga Utopia aims to leave people feeling stronger, healthier and happier.
 
 ![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
 
 ## Features 
 
-In this section, you should go over the different parts of your project, and describe each in a sentence or so. You will need to explain what value each of the features provides for the user, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
-
 ### Existing Features
 
 - __Navigation Bar__
 
-  - Featured on all three pages, the full responsive navigation bar includes links to the Logo, Home page, Gallery and Sign Up page and is identical in each page to allow for easy navigation.
+  - Featured on all four pages, the full responsive navigation bar includes links to the Logo/Name, Home page, Yoga Page, Meditation page, Mental-Health page and Sign Up section located on the Home page and is identical in each page to allow for easy navigation.
+  - The navigation bar is responsive and will collapse into a hamburger menu when used on medium and small screens.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
 ![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
 
-- __The landing page image__
+- __The Landing Page Image__
 
-  - The landing includes a photograph with text overlay to allow the user to see exactly which location this site would be applicable to. 
-  - This section introduces the user to Love Running with an eye catching animation to grab their attention
+  - The landing page has a photograph with text overlay welcoming the user and informing them Yoga Utopia's goal. 
+  - This section introduces the user to Yoga Utopia with an vibrant image to not only grab their attention but to also suggestive towards the capabilities of what can be acheived with Yoga Utopia.
 
 ![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
 
-- __Club Ethos Section__
+- __What We Offer Section__
 
-  - The club ethos section will allow the user to see the benefits of joining the Love Running meetups, as well as the benefits of running overall. 
-  - This user will see the value of signing up for the Love Running meetups. This should encourage the user to consider running as their form of exercise. 
+  - The what we offer section is an informative section that tells the user what can be found on each of the Yoga, Meditation and Mental-Health pages.
+  - The user will be advised early as to what is available to them on Yoga Utopia and can make an informed decision as to what page they'd like to visit.
 
 ![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
-- __Meetup Times section__
+- __About Us Section__
 
-  - This section will allow the user to see exactly when the meetups will happen, where they will be located and how long the run will be in kilometers. 
-  - This section will be updated as these times change to keep the user up to date. 
+  - The about us section gives a more detailed overview to Yoga Utopia's goals, offerings and benefits. 
+  - This will give the user more of an insight to Yoga Utopia and will help make them feel more comfortable with the content available/provided to them. 
 
 ![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
+- __Sign Up Section__
+
+  - This section will allow the user to subscribe to Yoga Utopia's electronic newsletters that will be emailed to the user on a weekly basis. The user will be asked to submit their full name and email address.
+  - The newsletter will contain all the up to date news around the yoga community, provide fresh content weekly, available offers and the latest Yoga Utopia news.
+
+![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+
+- __Contact Section__
+
+  - The contact section includes Yoga Utopia's location, phone, and email details.
+  - The details are made available to the user for any queries they may have for Yoga Utopia and would like a form of contact. 
+
+![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+
 - __The Footer__ 
 
-  - The footer section includes links to the relevant social media sites for Love Running. The links will open to a new tab to allow easy navigation for the user. 
+  - The footer section includes links to the relevant social media sites for Yoga Utopia. The links will open to a new tab to allow easy navigation for the user.
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
 ![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
 
-- __Gallery__
+- __The Yoga Page__
 
-  - The gallery will provide the user with supporting images to see what the meet ups look like. 
-  - This section is valuable to the user as they will be able to easily identify the types of events the organisation puts together. 
+  - The Yoga page contains an indepth description of Yoga, it's history and the benefits it provides.
+  - The page also includes a Yoga for beginners YouTube video that can be played.
+  - The page is responsive to all screen sizes and will adjust the size of the YouTube video accordingly.
+  - This will provide the user with educational information about yoga and also provide visual and audible content they can watch and/or listen to while they practise yoga. 
 
 ![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
-- __The Sign Up Page__
+- __The Meditation Page__
 
-  - This page will allow the user to get signed up to Love Running to start their running journey with the community. The user will be able specify if they would like to take part in road, trail or both types of running. The user will be asked to submit their full name and email address. 
+  - The Meditation page contains an indepth description of Yoga, it's history and the benefits it provides.
+  - The page also includes a Meditation for beginners YouTube video that can be played.
+  - The page is responsive to all screen sizes and will adjust the size of the YouTube video accordingly.
+  - This will provide the user with educational information about meditation and also provide visual and audible content they can watch and/or listen to while they practise meditation. 
 
 ![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
-For some/all of your features, you may choose to reference the specific project files that implement them.
+- __The Mental-Health Page__
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+  - The Mental-Health page contains an indepth definition of mental well-being, educational description, it's science, the benefits it provides and the signs of mental-health problems.
+  - The page also includes a Mental-Health self-improvement YouTube video that can be played.
+  - The page is responsive to all screen sizes and will adjust the size of the YouTube video accordingly.
+  - This will provide the user with educational information about mental-health and well-being and also provide visual and audible content they can watch and/or listen to while they practise the techniques in the YouTube video.  
 
-### Features Left to Implement
+![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
-- Another feature idea
+### Future Feature Ideas
+
+- __Yoga Page Tutorials__
+
+- Tutorial content for the Yoga page. The content will contain a step-by-step guide to a variety of yoga stretches and corresponding images/videos to provide a visiual and/or audiable example.
+- This will provide the user with much more accessible content on the yoga page they can follow along with.
+
+- __Meditation Page Techniques__
+
+- Technique content for the Meditation page. The content will contain a variety of meditation techniques and corresponding images/videos to provide a visiual and/or audiable aid.
+- This will provide the user with much more accessible content on the meditation page that they can follow along with.
+
+- __Mental Health Page Advice__
+
+- Self-improvement content for the Yoga page. The content will contain more well-being advice and steps that can be taken to improve them mentally. 
+- This will provide the user with much more accessible and useful content on the mental-health page.
 
 ## Testing 
 
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
 
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
 
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
 
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
+The Yoga Utopia Home, Yoga, Meditation and Mental Health page all work as intened.
+I personally tested all pages and sections of Yoga Utopia; Some of the main testing points included:
+  - page navigation
+  - testing all clickable links
+  - hovering cursor over clickable links i.e. Navigation Bar, Footer Icons, What we Offer boxes, Logo etc.
+  - responsiveness of each section, image, video, text, navigation bar and footer by resizing the browsers display area
+  - test the playback of the embeded youtube videos
+  - test hamburger menu responsiveness when screen size is changed
+
+The website is fully responsive to all devices and screen sizes.
+
+The website was shared with family and friends to test the websites usage and no problems/issues were mentioned in their feedback.
+
+There is a minor bug with the hamburger menu: the area of the clickable button does not cover the full surface area of the hamburger icon displayed on the devices screen.
 
 
 ### Validator Testing 
@@ -93,49 +142,32 @@ You will need to mention unfixed bugs and why they were not fixed. This section 
 
 ## Deployment
 
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub) 
+The process of deploying Yoga Utopia to GitHub is detailed below: 
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows: 
   - In the GitHub repository, navigate to the Settings tab 
-  - From the source section drop-down menu, select the Master Branch
-  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
+  - Navigate to the 'Build and Deployment' section
+  - In the Source drop-down menu, select Deploy from a branch
+  - In the Branch drop-down menu, select 'main' branch and '/(root)' folder and click the save button
+  - Once saved, refresh the page. The page will reload with a detailed ribbon display to indicate the successful deployment. 
 
 The live link can be found here - https://kizmistry.github.io/Yoga-Utopia/
 
 
 ## Credits 
 
-In this section you need to reference where you got your content, media and extra help from. It is common practice to use code from other repositories and tutorials, however, it is important to be very specific about these sources to avoid plagiarism. 
-
-You can break the credits section up into Content and Media, depending on what you have included in your project. 
-
 ### Content 
 
-- The text for the Home page was taken from Wikipedia Article A
-- Instructions on how to implement form validation on the Sign Up page was taken from [Specific YouTube Tutorial](https://www.youtube.com/)
+- The text for the Yoga page was sampled from the following Wikipedia Article: [Yoga](https://en.wikipedia.org/wiki/Yoga)
+- The text for the Meditation page was sampled from the following Wikipedia Article: [Meditation](https://en.wikipedia.org/wiki/Meditation)
+- The text for the Mental-Health page was sampled from the following Wikipedia Article: [Mental Health](https://en.wikipedia.org/wiki/Mental_health)
+- Instructions on how to implement the hamburger menu in the navigation bar was taken from an article written by Luke Embrey: [10+ Hamburger Menu Examples [CSS Only]](https://alvarotrigo.com/blog/hamburger-menu-css/)
 - The icons in the footer were taken from [Font Awesome](https://fontawesome.com/)
 
 ### Media
 
-- The photos used on the home and sign up page are from This Open Source site
-- The images used for the gallery page were taken from this other open source site
-
-
-Congratulations on completing your Readme, you have made another big stride in the direction of being a developer! 
-
-## Other General Project Advice
-
-Below you will find a couple of extra tips that may be helpful when completing your project. Remember that each of these projects will become part of your final portfolio so it’s important to allow enough time to showcase your best work! 
-
-- One of the most basic elements of keeping a healthy commit history is with the commit message. When getting started with your project, read through [this article](https://chris.beams.io/posts/git-commit/) by Chris Beams on How to Write  a Git Commit Message 
-  - Make sure to keep the messages in the imperative mood 
-
-- When naming the files in your project directory, make sure to consider meaningful naming of files, point to specific names and sections of content.
-  - For example, instead of naming an image used ‘image1.png’ consider naming it ‘landing_page_img.png’. This will ensure that there are clear file paths kept. 
-
-- Do some extra research on good and bad coding practices, there are a handful of useful articles to read, consider reviewing the following list when getting started:
-  - [Writing Your Best Code](https://learn.shayhowe.com/html-css/writing-your-best-code/)
-  - [HTML & CSS Coding Best Practices](https://medium.com/@inceptiondj.info/html-css-coding-best-practice-fadb9870a00f)
-  - [Google HTML/CSS Style Guide](https://google.github.io/styleguide/htmlcssguide.html#General)
-
-Getting started with your Portfolio Projects can be daunting, planning your project can make it a lot easier to tackle, take small steps to reach the final outcome and enjoy the process! 
+- The photos used on the home, yoga, meditation and mental-health page are from Pexels user 'Elina Fairytale': [Pexels](https://www.pexels.com/@elly-fairytale/)
+- The background image used for on the meditation and mental-health page are from Pexels user 'Pixabay': [Pexels](https://www.pexels.com/@pixabay/)
+- The video used on the yoga page is from, meditation and mental-health page are from the following YouTube page: [Yoga With Adriene](https://www.youtube.com/watch?v=v7AYKMP6rOE&ab_channel=YogaWithAdriene)
+- The video used on the meditation page is from the following Youtube page: [Goodful](https://www.youtube.com/watch?v=U9YKY7fdwyg&ab_channel=Goodful)
+- The video used on the mental-health page is from the following YouTube page: [Psych2Go](https://www.youtube.com/watch?v=3QIfkeA6HBY&ab_channel=Psych2Go)
