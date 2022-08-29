@@ -6,6 +6,8 @@ Yoga Utopia provides beginner-friendly content which is also beneficial to a mor
 The site has useful information relating to Yoga, Meditation, and Mental-Health that will help educate people interested in each category.
 Yoga Utopia aims to leave people feeling stronger, healthier and happier.
 
+![Yoga Utopia](/assets/readme-media/Yoga-Utopia_index.html.png)
+
 ## Features 
 
 ### Existing Features
