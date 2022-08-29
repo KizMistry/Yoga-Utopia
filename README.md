@@ -6,8 +6,6 @@ Yoga Utopia is beginner friendly, providing beginner friendly content which is a
 The site has useful information relating to Yoga, Meditation, and Mental-Health that will help to educate people interested in each category.
 Yoga Utopia aims to leave people feeling stronger, healthier and happier.
 
-![Responsice Mockup](https://github.com/lucyrush/readme-template/blob/master/media/love_running_mockup.png)
-
 ## Features 
 
 ### Existing Features
@@ -93,23 +91,23 @@ Yoga Utopia aims to leave people feeling stronger, healthier and happier.
 
 - __Yoga Page Tutorials__
 
-- Tutorial content for the Yoga page. The content will contain a step-by-step guide to a variety of yoga stretches and corresponding images/videos to provide a visiual and/or audiable example.
-- This will provide the user with much more accessible content on the yoga page they can follow along with.
+  - Tutorial content for the Yoga page. The content will contain a step-by-step guide to a variety of yoga stretches and corresponding images/videos to provide a visiual and/or audiable example.
+  - This will provide the user with much more accessible content on the yoga page they can follow along with.
 
 - __Meditation Page Techniques__
 
-- Technique content for the Meditation page. The content will contain a variety of meditation techniques and corresponding images/videos to provide a visiual and/or audiable aid.
-- This will provide the user with much more accessible content on the meditation page that they can follow along with.
+  - Technique content for the Meditation page. The content will contain a variety of meditation techniques and corresponding images/videos to provide a visiual and/or audiable aid.
+  - This will provide the user with much more accessible content on the meditation page that they can follow along with.
 
 - __Mental Health Page Advice__
 
-- Self-improvement content for the Yoga page. The content will contain more well-being advice and steps that can be taken to improve them mentally. 
-- This will provide the user with much more accessible and useful content on the mental-health page.
+  - Self-improvement content for the Yoga page. The content will contain more well-being advice and steps that can be taken to improve them mentally. 
+  - This will provide the user with much more accessible and useful content on the mental-health page.
 
 ## Testing 
 
 The Yoga Utopia Home, Yoga, Meditation and Mental Health page all work as intened.
-I personally tested all pages and sections of Yoga Utopia; Some of the main testing points included:
+All pages and sections of Yoga Utopia were tested; Some of the main testing points included:
   - page navigation
   - testing all clickable links
   - hovering cursor over clickable links i.e. Navigation Bar, Footer Icons, What we Offer boxes, Logo etc.
@@ -121,9 +119,6 @@ The website is fully responsive to all devices and screen sizes.
 
 The website was shared with family and friends to test the websites usage and no problems/issues were mentioned in their feedback.
 
-There is a minor bug with the hamburger menu: the area of the clickable button does not cover the full surface area of the hamburger icon displayed on the devices screen.
-
-
 ### Validator Testing 
 
 - HTML
@@ -134,7 +129,7 @@ There is a minor bug with the hamburger menu: the area of the clickable button d
 
 ### Unfixed Bugs
 
-You will need to mention unfixed bugs and why they were not fixed. This section should include shortcomings of the frameworks or technologies used. Although time can be a big variable to consider, paucity of time and difficulty understanding implementation is not a valid reason to leave bugs unfixed. 
+There is a minor bug with the hamburger menu: the area of the clickable button does not cover the full surface area of the hamburger icon displayed on the devices screen.
 
 ## Deployment
 
