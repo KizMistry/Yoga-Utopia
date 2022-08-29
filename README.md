@@ -122,7 +122,7 @@ The website was shared with family and friends to test the websites usage and no
 ### Validator Testing 
 
 - HTML
-  - Errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkizmistry.github.io%2FYoga-Utopia%2F)
+  - No errors were returned when passing through the official [W3C validator](https://validator.w3.org/nu/?doc=https%3A%2F%2Fkizmistry.github.io%2FYoga-Utopia%2F)
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](http://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=https%3A%2F%2Fkizmistry.github.io%2FYoga-Utopia%2F&usermedium=all&vextwarning=&warning=1)
 
