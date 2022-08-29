@@ -18,49 +18,49 @@ Yoga Utopia aims to leave people feeling stronger, healthier and happier.
   - The navigation bar is responsive and will collapse into a hamburger menu when used on medium and small screens.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
-![Nav Bar](https://github.com/lucyrush/readme-template/blob/master/media/love_running_nav.png)
+![Nav Bar](/assets/readme-media/navigation-bar.png)
 
 - __The Landing Page Image__
 
   - The landing page has a photograph with text overlay welcoming the user and informing them Yoga Utopia's goal. 
   - This section introduces the user to Yoga Utopia with an vibrant image to not only grab their attention but to also suggestive towards the capabilities of what can be acheived with Yoga Utopia.
 
-![Landing Page](https://github.com/lucyrush/readme-template/blob/master/media/love_running_landing.png)
+![Landing Page](/assets/readme-media/landing-page.png)
 
 - __What We Offer Section__
 
   - The what we offer section is an informative section that tells the user what can be found on each of the Yoga, Meditation and Mental-Health pages.
   - The user will be advised early as to what is available to them on Yoga Utopia and can make an informed decision as to what page they'd like to visit.
 
-![What We Offer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![What We Offer](/assets/readme-media/what-we-offer.png)
 
 - __About Us Section__
 
   - The about us section gives a more detailed overview to Yoga Utopia's goals, offerings and benefits. 
   - This will give the user more of an insight to Yoga Utopia and will help make them feel more comfortable with the content available/provided to them. 
 
-![About Us](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![About Us](/assets/readme-media/about-us.png)
 
 - __Sign Up Section__
 
   - This section will allow the user to subscribe to Yoga Utopia's electronic newsletters that will be emailed to the user on a weekly basis. The user will be asked to submit their full name and email address.
   - The newsletter will contain all the up to date news around the yoga community, provide fresh content weekly, available offers and the latest Yoga Utopia news.
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Sign Up](/assets/readme-media/sign-up.png)
 
 - __Contact Section__
 
   - The contact section includes Yoga Utopia's location, phone, and email details.
   - The details are made available to the user for any queries they may have for Yoga Utopia and would like a form of contact. 
 
-![Contact](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Contact](/assets/readme-media/contact.png)
 
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for Yoga Utopia. The links will open to a new tab to allow easy navigation for the user.
   - The footer is valuable to the user as it encourages them to keep connected via social media
 
-![Footer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_footer.png)
+![Footer](/assets/readme-media/footer.png)
 
 - __The Yoga Page__
 
@@ -69,7 +69,7 @@ Yoga Utopia aims to leave people feeling stronger, healthier and happier.
   - The page is responsive to all screen sizes and will adjust the size of the YouTube video accordingly.
   - This will provide the user with educational information about yoga and also provide visual and audible content they can watch and/or listen to while they practise yoga. 
 
-![Yoga](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Yoga](/assets/readme-media/yoga-page.png)
 
 - __The Meditation Page__
 
@@ -78,7 +78,7 @@ Yoga Utopia aims to leave people feeling stronger, healthier and happier.
   - The page is responsive to all screen sizes and will adjust the size of the YouTube video accordingly.
   - This will provide the user with educational information about meditation and also provide visual and audible content they can watch and/or listen to while they practise meditation. 
 
-![Meditation](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Meditation](/assets/readme-media/meditation-page.png)
 
 - __The Mental-Health Page__
 
@@ -87,7 +87,7 @@ Yoga Utopia aims to leave people feeling stronger, healthier and happier.
   - The page is responsive to all screen sizes and will adjust the size of the YouTube video accordingly.
   - This will provide the user with educational information about mental-health and well-being and also provide visual and audible content they can watch and/or listen to while they practise the techniques in the YouTube video.  
 
-![Mental Health](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Mental Health](/assets/readme-media/mental-health-page.png)
 
 ### Future Feature Ideas
 
