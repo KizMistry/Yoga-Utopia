@@ -12,7 +12,7 @@ Yoga Utopia aims to leave people feeling stronger, healthier and happier.
 
 - __Navigation Bar__
 
-  - Featured on all four pages, the full responsive navigation bar includes links to the Logo/Name, Home page, Yoga Page, Meditation page, Mental-Health page and Sign Up section located on the Home page and is identical in each page to allow for easy navigation.
+  - Featured on all four pages, the full responsive navigation bar includes links to the Logo/Name, Home, Yoga, Meditation, Mental-Health page and Sign Up section located on the Home page and is identical in each page to allow for easy navigation.
   - The navigation bar is responsive and will collapse into a hamburger menu when used on medium and small screens.
   - This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page via the ‘back’ button. 
 
@@ -41,7 +41,7 @@ Yoga Utopia aims to leave people feeling stronger, healthier and happier.
 
 - __Sign Up Section__
 
-  - This section will allow the user to subscribe to Yoga Utopia's electronic newsletters that will be emailed to the user on a weekly basis. The user will be asked to submit their full name and email address.
+  - This section will allow the user to subscribe to Yoga Utopia's emailed newsletters that will be sent to the user on a weekly basis. The user will be asked to submit their full name and email address.
   - The newsletter will contain all the up to date news around the yoga community, provide fresh content weekly, available offers and the latest Yoga Utopia news.
 
 ![Sign Up](/assets/readme-media/sign-up.png)
@@ -71,7 +71,7 @@ Yoga Utopia aims to leave people feeling stronger, healthier and happier.
 
 - __The Meditation Page__
 
-  - The Meditation page contains an indepth description of Yoga, it's history and the benefits it provides.
+  - The Meditation page contains an indepth description of Meditation, it's history and the benefits it provides.
   - The page also includes a Meditation for beginners YouTube video that can be played.
   - The page is responsive to all screen sizes and will adjust the size of the YouTube video accordingly.
   - This will provide the user with educational information about meditation and also provide visual and audible content they can watch and/or listen to while they practise meditation. 
@@ -80,7 +80,7 @@ Yoga Utopia aims to leave people feeling stronger, healthier and happier.
 
 - __The Mental-Health Page__
 
-  - The Mental-Health page contains an indepth definition of mental well-being, educational description, it's science, the benefits it provides and the signs of mental-health problems.
+  - The Mental-Health page contains an indepth definition of Mental Well-being, educational description, it's science, the benefits it provides and the signs of mental-health problems.
   - The page also includes a Mental-Health self-improvement YouTube video that can be played.
   - The page is responsive to all screen sizes and will adjust the size of the YouTube video accordingly.
   - This will provide the user with educational information about mental-health and well-being and also provide visual and audible content they can watch and/or listen to while they practise the techniques in the YouTube video.  
@@ -101,7 +101,7 @@ Yoga Utopia aims to leave people feeling stronger, healthier and happier.
 
 - __Mental Health Page Advice__
 
-  - Self-improvement content for the Yoga page. The content will contain more well-being advice and steps that can be taken to improve them mentally. 
+  - Self-improvement content for the Mental Health page. The content will contain more well-being advice and steps that can be taken to improve their mentality. 
   - This will provide the user with much more accessible and useful content on the mental-health page.
 
 ## Testing 
