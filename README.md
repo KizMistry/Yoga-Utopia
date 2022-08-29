@@ -2,8 +2,8 @@
  
 Yoga Utopia is a Yoga, Meditation and Mental-Health website that hopes to provide a universal yoga experience, encouraging both a healthy mind and a healthy body for everyone. Yoga Utopia's goal is to teach visitors the origins and benefits of practicing Yoga, Meditation and the importance of Mental Well-being.
 
-Yoga Utopia is beginner friendly, providing beginner friendly content which is also beneficial to a more experienced Yogi.
-The site has useful information relating to Yoga, Meditation, and Mental-Health that will help to educate people interested in each category.
+Yoga Utopia provides beginner-friendly content which is also beneficial to a more experienced Yogi.
+The site has useful information relating to Yoga, Meditation, and Mental-Health that will help educate people interested in each category.
 Yoga Utopia aims to leave people feeling stronger, healthier and happier.
 
 ## Features 
@@ -21,7 +21,7 @@ Yoga Utopia aims to leave people feeling stronger, healthier and happier.
 - __The Landing Page Image__
 
   - The landing page has a photograph with text overlay welcoming the user and informing them Yoga Utopia's goal. 
-  - This section introduces the user to Yoga Utopia with an vibrant image to not only grab their attention but to also suggestive towards the capabilities of what can be acheived with Yoga Utopia.
+  - This section introduces the user to Yoga Utopia with a vibrant image to not only grab their attention but also suggestive towards the capabilities of what can be achieved with Yoga Utopia.
 
 ![Landing Page](/assets/readme-media/landing-page.png)
 
@@ -34,7 +34,7 @@ Yoga Utopia aims to leave people feeling stronger, healthier and happier.
 
 - __About Us Section__
 
-  - The about us section gives a more detailed overview to Yoga Utopia's goals, offerings and benefits. 
+  - The about us section gives a more detailed overview to Yoga Utopia's goals, offerings, and benefits. 
   - This will give the user more of an insight to Yoga Utopia and will help make them feel more comfortable with the content available/provided to them. 
 
 ![About Us](/assets/readme-media/about-us.png)
@@ -42,7 +42,7 @@ Yoga Utopia aims to leave people feeling stronger, healthier and happier.
 - __Sign Up Section__
 
   - This section will allow the user to subscribe to Yoga Utopia's emailed newsletters that will be sent to the user on a weekly basis. The user will be asked to submit their full name and email address.
-  - The newsletter will contain all the up to date news around the yoga community, provide fresh content weekly, available offers and the latest Yoga Utopia news.
+  - The newsletter will contain all the up-to date news around the yoga community, provide fresh content weekly, available offers, and the latest Yoga Utopia news.
 
 ![Sign Up](/assets/readme-media/sign-up.png)
 
@@ -56,25 +56,25 @@ Yoga Utopia aims to leave people feeling stronger, healthier and happier.
 - __The Footer__ 
 
   - The footer section includes links to the relevant social media sites for Yoga Utopia. The links will open to a new tab to allow easy navigation for the user.
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer is valuable to the user as it encourages them to stay connected via social media
 
 ![Footer](/assets/readme-media/footer.png)
 
 - __The Yoga Page__
 
-  - The Yoga page contains an indepth description of Yoga, it's history and the benefits it provides.
+  - The Yoga page contains an indepth description of Yoga, its history and the benefits it provides.
   - The page also includes a Yoga for beginners YouTube video that can be played.
   - The page is responsive to all screen sizes and will adjust the size of the YouTube video accordingly.
-  - This will provide the user with educational information about yoga and also provide visual and audible content they can watch and/or listen to while they practise yoga. 
+  - This will provide the user with educational information about yoga and also provide visual and audible content they can watch and/or listen to while they practice yoga. 
 
 ![Yoga](/assets/readme-media/yoga-page.png)
 
 - __The Meditation Page__
 
-  - The Meditation page contains an indepth description of Meditation, it's history and the benefits it provides.
+  - The Meditation page contains an indepth description of Meditation, its history and the benefits it provides.
   - The page also includes a Meditation for beginners YouTube video that can be played.
   - The page is responsive to all screen sizes and will adjust the size of the YouTube video accordingly.
-  - This will provide the user with educational information about meditation and also provide visual and audible content they can watch and/or listen to while they practise meditation. 
+  - This will provide the user with educational information about meditation and also provide visual and audible content they can watch and/or listen to while they practice meditation. 
 
 ![Meditation](/assets/readme-media/meditation-page.png)
 
@@ -83,7 +83,7 @@ Yoga Utopia aims to leave people feeling stronger, healthier and happier.
   - The Mental-Health page contains an indepth definition of Mental Well-being, educational description, it's science, the benefits it provides and the signs of mental-health problems.
   - The page also includes a Mental-Health self-improvement YouTube video that can be played.
   - The page is responsive to all screen sizes and will adjust the size of the YouTube video accordingly.
-  - This will provide the user with educational information about mental-health and well-being and also provide visual and audible content they can watch and/or listen to while they practise the techniques in the YouTube video.  
+  - This will provide the user with educational information about mental-health and well-being and also provide visual and audible content they can watch and/or listen to while they practice the techniques in the YouTube video.  
 
 ![Mental Health](/assets/readme-media/mental-health-page.png)
 
@@ -91,12 +91,12 @@ Yoga Utopia aims to leave people feeling stronger, healthier and happier.
 
 - __Yoga Page Tutorials__
 
-  - Tutorial content for the Yoga page. The content will contain a step-by-step guide to a variety of yoga stretches and corresponding images/videos to provide a visiual and/or audiable example.
+  - Tutorial content for the Yoga page. The content will contain a step-by-step guide to a variety of yoga stretches and corresponding images/videos to provide a visual and/or audible example.
   - This will provide the user with much more accessible content on the yoga page they can follow along with.
 
 - __Meditation Page Techniques__
 
-  - Technique content for the Meditation page. The content will contain a variety of meditation techniques and corresponding images/videos to provide a visiual and/or audiable aid.
+  - Technique content for the Meditation page. The content will contain a variety of meditation techniques and corresponding images/videos to provide a visual and/or audible aid.
   - This will provide the user with much more accessible content on the meditation page that they can follow along with.
 
 - __Mental Health Page Advice__
@@ -106,13 +106,13 @@ Yoga Utopia aims to leave people feeling stronger, healthier and happier.
 
 ## Testing 
 
-The Yoga Utopia Home, Yoga, Meditation and Mental Health page all work as intened.
+The Yoga Utopia Home, Yoga, Meditation and Mental Health page all work as intended.
 All pages and sections of Yoga Utopia were tested; Some of the main testing points included:
   - page navigation
   - testing all clickable links
   - hovering cursor over clickable links i.e. Navigation Bar, Footer Icons, What we Offer boxes, Logo etc.
-  - responsiveness of each section, image, video, text, navigation bar and footer by resizing the browsers display area
-  - test the playback of the embeded youtube videos
+  - responsiveness of each section, image, video, text, navigation bar, and footer by resizing the browsers display area
+  - test the playback of the embedded youtube videos
   - test hamburger menu responsiveness when screen size is changed
 
 The website is fully responsive to all devices and screen sizes.
