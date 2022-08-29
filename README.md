@@ -32,14 +32,14 @@ Yoga Utopia aims to leave people feeling stronger, healthier and happier.
   - The what we offer section is an informative section that tells the user what can be found on each of the Yoga, Meditation and Mental-Health pages.
   - The user will be advised early as to what is available to them on Yoga Utopia and can make an informed decision as to what page they'd like to visit.
 
-![Club Ethos](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
+![What We Offer](https://github.com/lucyrush/readme-template/blob/master/media/love_running_ethos.png)
 
 - __About Us Section__
 
   - The about us section gives a more detailed overview to Yoga Utopia's goals, offerings and benefits. 
   - This will give the user more of an insight to Yoga Utopia and will help make them feel more comfortable with the content available/provided to them. 
 
-![Meetup Times](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
+![About Us](https://github.com/lucyrush/readme-template/blob/master/media/love_running_times.png)
 
 - __Sign Up Section__
 
@@ -53,7 +53,7 @@ Yoga Utopia aims to leave people feeling stronger, healthier and happier.
   - The contact section includes Yoga Utopia's location, phone, and email details.
   - The details are made available to the user for any queries they may have for Yoga Utopia and would like a form of contact. 
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Contact](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
 - __The Footer__ 
 
@@ -69,7 +69,7 @@ Yoga Utopia aims to leave people feeling stronger, healthier and happier.
   - The page is responsive to all screen sizes and will adjust the size of the YouTube video accordingly.
   - This will provide the user with educational information about yoga and also provide visual and audible content they can watch and/or listen to while they practise yoga. 
 
-![Gallery](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
+![Yoga](https://github.com/lucyrush/readme-template/blob/master/media/love_running_gallery.png)
 
 - __The Meditation Page__
 
@@ -78,7 +78,7 @@ Yoga Utopia aims to leave people feeling stronger, healthier and happier.
   - The page is responsive to all screen sizes and will adjust the size of the YouTube video accordingly.
   - This will provide the user with educational information about meditation and also provide visual and audible content they can watch and/or listen to while they practise meditation. 
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Meditation](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
 - __The Mental-Health Page__
 
@@ -87,7 +87,7 @@ Yoga Utopia aims to leave people feeling stronger, healthier and happier.
   - The page is responsive to all screen sizes and will adjust the size of the YouTube video accordingly.
   - This will provide the user with educational information about mental-health and well-being and also provide visual and audible content they can watch and/or listen to while they practise the techniques in the YouTube video.  
 
-![Sign Up](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
+![Mental Health](https://github.com/lucyrush/readme-template/blob/master/media/love_running_signup.png)
 
 ### Future Feature Ideas
 
@@ -107,10 +107,6 @@ Yoga Utopia aims to leave people feeling stronger, healthier and happier.
 - This will provide the user with much more accessible and useful content on the mental-health page.
 
 ## Testing 
-
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your project’s features and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
-
-
 
 The Yoga Utopia Home, Yoga, Meditation and Mental Health page all work as intened.
 I personally tested all pages and sections of Yoga Utopia; Some of the main testing points included:
